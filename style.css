@@ -38,7 +38,7 @@ h1{
 }
 
 .input-wrapper label{
-    width: 80px;
+    width: 90px;
     font-size: 18px;
 }
 
@@ -46,7 +46,7 @@ h1{
     background-color: #111;
     color: #eee;
     padding: 0 10px;
-    width: calc(100% - 80px);
+    width: calc(100% - 90px);
     height: 100%;
     border-radius: 5px;
     font-size: 18px;
